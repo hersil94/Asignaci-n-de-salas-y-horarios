@@ -1,0 +1,13 @@
+Juanito,álgebra1,cálculo1,física1
+Luis,escultura,programación,química1,álgebra2
+Jose,cálculo1,álgebra1
+Pablo,cálculo2,álgebra2
+Diego,programación,escultura
+Gabriel,programación,química1,álgebra2
+Claudio,álgebra1,cálculo1
+karoldance,cálculo1,álgebra2
+pedroengel,cálculo2,álgebra2
+luchito,química2,pintura,álgebra2
+paty,química1,cálculo1,pintura
+noctis,cálculo1,pintura,atletismo
+geralt,cálculo2,álgebra1,escultura

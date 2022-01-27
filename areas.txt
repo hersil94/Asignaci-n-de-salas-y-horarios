@@ -1,0 +1,7 @@
+Matemáticas,álgebra1,álgebra2,cálculo1,cálculo2
+Física,electromagnetismo,física1,física2
+Idiomas,inglés1,inglés2,inglés3,inglés4,frances
+Deportes,futbol,natación,atletismo
+Arte,escultura,pintura,escultura
+Química,química1,química2
+Computación,programación
